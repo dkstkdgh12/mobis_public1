@@ -4,6 +4,6 @@ right1
 4
 right3
 left2
-7
+left3
 8
-9
+right3
