@@ -4,6 +4,10 @@ left1, right1
 left2, right2
 5
 6
+<<<<<<< HEAD
 right3
+=======
+7
+>>>>>>> parent of f2ddf90... right3
 8
 9
