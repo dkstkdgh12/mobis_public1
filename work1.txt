@@ -3,7 +3,7 @@ left1, right1
 3
 left2, right2
 5
-6
+right3
 7
 8
 9
